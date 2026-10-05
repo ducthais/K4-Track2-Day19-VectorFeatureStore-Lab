@@ -1,7 +1,7 @@
 # Reflection — Lab 19
 
-**Tên:** Đinh Đức Thái
-**Cohort:** A20-K4
+**Tên:** Đinh Đức Thái - 2A202602648  
+**Cohort:** A20-K4  
 **Path đã chạy:** lite (Python 3.11, fastembed, Qdrant in-memory, SQLite Feast)
 
 ---
